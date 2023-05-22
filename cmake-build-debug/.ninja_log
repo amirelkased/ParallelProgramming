@@ -1,9 +1,6 @@
 # ninja log v5
-6	156	7064738667869355	CMakeFiles/ParallelProgramming.dir/com.fee.omp/OMP_Workshare_1.c.obj	c5368c9a721ad1b6
+4	168	7064852763576940	CMakeFiles/ParallelProgramming.dir/com.fee.omp/OMP_Workshare_1.c.obj	8f836a5596406bad
 1	255	7064718197279477	CMakeFiles/ParallelProgramming.dir/main.c.obj	f4659c5f7d740469
-1	214	7064742896596942	build.ninja	618ddad26d1ffa33
-143	338	7064723942409878	ParallelProgramming.exe	e76107abf22a4422
-3	148	7064743794447179	CMakeFiles/ParallelProgramming.dir/com.fee.omp/OMP_Workshare_1.c.obj	8f836a5596406bad
-148	362	7064743796557782	ParallelProgramming.exe	fe804901ab64eb9c
-5	148	7064744459327654	CMakeFiles/ParallelProgramming.dir/com.fee.omp/OMP_Workshare_1.c.obj	8f836a5596406bad
-149	331	7064744461139756	ParallelProgramming.exe	fe804901ab64eb9c
+1	236	7064926296173267	build.ninja	618ddad26d1ffa33
+205	421	7064923640234984	ParallelProgramming.exe	2d84ef5b0647a44f
+5	203	7064923637997491	CMakeFiles/ParallelProgramming.dir/com.fee.omp/OMP_orphan.c.obj	5ebd3a0e7bacf397

@@ -4,5 +4,8 @@ project(ParallelProgramming C)
 set(CMAKE_C_STANDARD 11)
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -fopenmp")
 
-# To execute first project uncomment this next line
-add_executable(ParallelProgramming com.fee.omp/OMP_Workshare_1.c)
+# To execute OMP_Workshare project uncomment this next line
+#add_executable(ParallelProgramming com.fee.openmp/OMP_Workshare.c com.fee.openmp/OMP_orphan.c)
+
+# To execute OMP_orphan project uncomment this next line
+add_executable(ParallelProgramming com.fee.openmp/OMP_orphan.c)

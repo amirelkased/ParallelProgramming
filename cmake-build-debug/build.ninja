@@ -49,11 +49,11 @@ cmake_ninja_workdir = F$:/OneDrive$ -$ FEE-MU/Coding/Projects/C/ParallelProgramm
 
 build cmake_object_order_depends_target_ParallelProgramming: phony || CMakeFiles/ParallelProgramming.dir
 
-build CMakeFiles/ParallelProgramming.dir/com.fee.omp/OMP_Workshare_1.c.obj: C_COMPILER__ParallelProgramming_Debug F$:/OneDrive$ -$ FEE-MU/Coding/Projects/C/ParallelProgramming/com.fee.omp/OMP_Workshare_1.c || cmake_object_order_depends_target_ParallelProgramming
-  DEP_FILE = CMakeFiles\ParallelProgramming.dir\com.fee.omp\OMP_Workshare_1.c.obj.d
+build CMakeFiles/ParallelProgramming.dir/com.fee.openmp/OMP_orphan.c.obj: C_COMPILER__ParallelProgramming_Debug F$:/OneDrive$ -$ FEE-MU/Coding/Projects/C/ParallelProgramming/com.fee.openmp/OMP_orphan.c || cmake_object_order_depends_target_ParallelProgramming
+  DEP_FILE = CMakeFiles\ParallelProgramming.dir\com.fee.openmp\OMP_orphan.c.obj.d
   FLAGS = -fopenmp -g -fdiagnostics-color=always -std=gnu11
   OBJECT_DIR = CMakeFiles\ParallelProgramming.dir
-  OBJECT_FILE_DIR = CMakeFiles\ParallelProgramming.dir\com.fee.omp
+  OBJECT_FILE_DIR = CMakeFiles\ParallelProgramming.dir\com.fee.openmp
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/ParallelProgramming.dir/com.fee.omp/OMP_Workshare_1.c.obj: C_CO
 #############################################
 # Link the executable ParallelProgramming.exe
 
-build ParallelProgramming.exe: C_EXECUTABLE_LINKER__ParallelProgramming_Debug CMakeFiles/ParallelProgramming.dir/com.fee.omp/OMP_Workshare_1.c.obj
+build ParallelProgramming.exe: C_EXECUTABLE_LINKER__ParallelProgramming_Debug CMakeFiles/ParallelProgramming.dir/com.fee.openmp/OMP_orphan.c.obj
   FLAGS = -fopenmp -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ParallelProgramming.dir
