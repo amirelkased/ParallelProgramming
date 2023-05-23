@@ -1,3 +1,2 @@
-F:/OneDrive - FEE-MU/Coding/Projects/C/ParallelProgramming/cmake-build-debug/CMakeFiles/ParallelProgramming.dir
 F:/OneDrive - FEE-MU/Coding/Projects/C/ParallelProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
 F:/OneDrive - FEE-MU/Coding/Projects/C/ParallelProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir

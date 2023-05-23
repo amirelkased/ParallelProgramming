@@ -12,11 +12,7 @@
 						"string" : "3.25"
 					},
 					"projectIndex" : 0,
-					"source" : ".",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"source" : "."
 				}
 			],
 			"name" : "Debug",
@@ -27,23 +23,10 @@
 					[
 						0
 					],
-					"name" : "ParallelProgramming",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"name" : "ParallelProgramming"
 				}
 			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 0,
-					"id" : "ParallelProgramming::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ParallelProgramming-Debug-a4f0e836d90e874f85e1.json",
-					"name" : "ParallelProgramming",
-					"projectIndex" : 0
-				}
-			]
+			"targets" : []
 		}
 	],
 	"kind" : "codemodel",
